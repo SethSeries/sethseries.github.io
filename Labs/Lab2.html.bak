@@ -15,28 +15,28 @@
 <br>
 <body>
   <header>
-    <h1>Professor: </h1>
+    <h2>Professor: </h2>
   </header>
   <p>Daniel Krieglstein</p>
 </body>
 <br>
 <body>
   <header>
-    <h1>Lecture Days, Time and Place:</h1>
+    <h3>Lecture Days, Time and Place:</h3>
   </header>
   <p>Tuesdays 6:25PM to 9:05PM, Stuart Building, Room 238. Also online via Blackboard's Collaborate Ultra. </p>
 </body>
 <br>
 <body>
   <header>
-    <h1>Course Catalog Description: </h1>
+    <h4>Course Catalog Description: </h4>
   </header>
   <p>This course will cover the creation of Web pages and sites using HTML, CSS, Javascript and graphical applications. Networked multimedia distribution technologies are also explored. The design of effective Web site including page layout, user interface design, graphic design, content flow and site structure as well as management of Web site resources including intranet management and design considerations are addressed. Students design and create a major Web site with multiple pages and cross-linked structures. <strong>Prerequisites: </strong> [none] <strong>Credit: </strong> 2-2-3 Semester hours </p> 
 </body>
 <br>
 <body>
   <header>
-    <h1>Course Outcomes: </h1>
+    <h5>Course Outcomes: </h5>
   </header>
   <p>Students completing this course will be able to: </p>
   <ul>
@@ -50,7 +50,7 @@
 <br>
 <body>
   <header>
-    <h1>Course Objectives </h1>
+    <h6>Course Objectives </h6>
   </header>
   <p>At the conclusion of this course, each successful student will be able to: </p>
   <ul>
