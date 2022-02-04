@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Project 1: Resume</title>
-<Body>
+<body>
 	<header>
 		<h1>Seth Alexander Hall</h1>
 	</header>
@@ -69,6 +69,10 @@
 		<p><strong>M.S Cybersecurity and Forensics</strong></p>
 		<p>May 2022(Projected)</p>
 		<p>Illinois Institute of Technology -- Chicago, IL</p>
+		
+</body>
+</html>
+
 		
 		
 			
