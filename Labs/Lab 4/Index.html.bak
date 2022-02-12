@@ -25,7 +25,7 @@
 				<input type="radio" name="gender_field" id="Male" value="Male">
 				<label for="Male">Male</label>
 				<input type="radio" name="gender_field" id="Female" value="Female">
-				<label for="Female">Female></label>
+				<label for="Female">Female</label>
 				<input type="radio" name="gender_field" id="Nonbinary" value="Nonbinary">
 				<label for="Nonbinary">Nonbinary</label>
 			</div>
@@ -46,6 +46,7 @@
 		
 		<fieldset>
 			<legend><h2>Please Identify Your Availibility</h2></legend>
+			<div>
 			<p><strong>Days Available: </strong></p>
 			<ul style="list-style: none;">
 				<li><input type="checkbox" name="available_field[]" value="Monday"><label>Monday</label></li>
@@ -56,8 +57,12 @@
 				<li><input type="checkbox" name="available_field[]" value="Saturday"><label>Saturday</label></li>
 				<li><input type="checkbox" name="available_field[]" value="Sunday"><label>Sunday</label></li>
 			</ul>
+			</div>
+			
+			<div>
 			<p><strong>Any Additional Comments?</strong></p>
 			<textarea rows="10" cols="100" name="comments_field" placeholder="Comments."</textarea>
+			</div>
 		</fieldset>
 		<button type="submit" name="button">Submit</button>
 		<input type="hidden" name="hidden_field" value="SethHall">
