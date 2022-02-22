@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content=device-width, initial-scale=1">
+	<title>itmd-361-project1-final-deliverable</title>
+</head>
+
+<body>
+	<h1>Introductions</h1>
+	<p>Hello, my name is Seth Hall. I am working on a Master's Degree in Cybersecurity. I am on my fourth year at IIT and I also work for the university as a Level II IT Technician</p>
+	<ul>
+		<li><a href="article1.html">The First Half of my Writing Sample</a></li>
+		<li><a href="article2.html">The Second Half of my Writing Sample</a></li>
+		<li><a href="resume.html">My Professional Resume</a></li>
+	</ul>
+</body>
+</html>
