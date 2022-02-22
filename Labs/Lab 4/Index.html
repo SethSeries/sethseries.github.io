@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Biometric Data Form</title>
+	<style>
+		div {margin-top: 15px}
+	</style>
+</head>
+<body>
+	<form action="http://bloomingdale.sat.iit.edu/kriedan/lab3formscript.php" method="POST" target="_blank">
+		<h1>Volunteer Sign-Up Form</h1>
+		<fieldset>
+			<legend><h2>My Info</h2></legend>
+			<p><label><strong>First Name: <input type="text" name="first_name_field" placeholder="First Name"></strong></label></p>
+			
+			<p><label><strong>Last Name: <input type="text" name="last_name_field" placeholder="Last Name"></strong></label></p>
+			
+			<p><label><strong>Phone Number: <input type="text" name="phone_number_field" placeholder="Enter your phone number"></strong></label></p>
+			
+			<p><label><strong>Email Address: <input type="email" name="email_address_field" placeholder="Enter a Valid Email Address"</strong></label></p>
+			
+			<div>
+				<label><strong>Please select your gender: </strong></label>
+				<input type="radio" name="gender_field" id="Male" value="Male">
+				<label for="Male">Male</label>
+				<input type="radio" name="gender_field" id="Female" value="Female">
+				<label for="Female">Female</label>
+				<input type="radio" name="gender_field" id="Nonbinary" value="Nonbinary">
+				<label for="Nonbinary">Nonbinary</label>
+			</div>
+			
+			<div>
+			<label><strong>Select Your Age Bracket: </strong></label>
+				<select name="age_field>
+					<option value="Under 18">Under 18</option>
+					<option value="18-24">18-24</option>
+					<option value="25-34">25-34</option>
+					<option value="35-44">35-44</option>
+					<option value="45-54">45-54</option>
+					<option value="55-64">55-64</option>
+					<option value="Over 65">65 and Over</option>
+				</select>
+			</div>
+		</fieldset>
+		
+		<fieldset>
+			<legend><h2>Please Identify Your Availibility</h2></legend>
+			<div>
+			<p><strong>Days Available: </strong></p>
+			<ul style="list-style: none;">
+				<li><input type="checkbox" name="available_field[]" value="Monday"><label>Monday</label></li>
+				<li><input type="checkbox" name="available_field[]" value="Tuesday"><label>Tuesday</label></li>
+				<li><input type="checkbox" name="available_field[]" value="Wednesday"><label>Wednesday</label></li>
+				<li><input type="checkbox" name="available_field[]" value="Thursday"><label>Thursday</label></li>
+				<li><input type="checkbox" name="available_field[]" value="Friday"><label>Friday</label></li>
+				<li><input type="checkbox" name="available_field[]" value="Saturday"><label>Saturday</label></li>
+				<li><input type="checkbox" name="available_field[]" value="Sunday"><label>Sunday</label></li>
+			</ul>
+			</div>
+			
+			<div>
+			<p><strong>Any Additional Comments?</strong></p>
+			<textarea rows="10" cols="100" name="comments_field" placeholder="Comments."></textarea>
+			</div>
+		</fieldset>
+		<button type="submit" name="button">Submit</button>
+		<input type="hidden" name="hidden_field" value="SethHall">
+	</form>
+</body>
+</html>
+				
+
