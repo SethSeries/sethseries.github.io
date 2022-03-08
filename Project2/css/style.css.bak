@@ -75,16 +75,3 @@ ul {
   color: black;
 }
 
-.picture {
-  background-color: white;
-  text-align: center;
-  border: 5px solid;
-  border-radius: 20px;
-  border-color: #F6FFCF;
-  width: 900px;
-  height: 660px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 60px;
-}
