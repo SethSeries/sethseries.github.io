@@ -75,8 +75,8 @@ ul {
   color: black;
 }
 
-#img {
-  background-color: white;
+img {
+ background-color: white;
   text-align: center;
   border: 5px solid;
   border-radius: 20px;
@@ -88,3 +88,10 @@ ul {
   margin-right: auto;
   margin-bottom: 60px;
 }
+<img class="picture" src="kouma.jpg" alt="Melty Blood: Type Lumina">
+<img class="picture" src="neotwewy.jpg" alt="Neo: The World Ends with You"> 
+<img class="picture" src="coldsteel.jpg" alt="The Legend of Heroes: Cold Steel"> 
+<img class="picture" src="adios.jpg" alt="Adios"> 
+<img class="picture" src="dread.jpg" alt="Metroid Dread">
+<img class="picture" src="ladyd.jpg" alt="Resident Evil 8: Village"> 
+<img class="picture" src="smtv.jpg" alt="Shin Megami Tensei V"> 
