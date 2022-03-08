@@ -73,4 +73,16 @@ ul {
   border: 1px solid black;
   color: black;
 }
-
+#photo {
+  background-color: white;
+  text-align: center;
+  border: 5px solid;
+  border-radius: 20px;
+  border-color: #F6FFCF;
+  width: 800px;
+  height: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+}
