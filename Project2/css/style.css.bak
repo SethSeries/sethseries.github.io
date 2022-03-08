@@ -37,7 +37,7 @@ h3 {
 ul {
   font-weight: 500;
   font-size: 1.2em;
-  color: black;
+  color: #fff5ee;
  }
  
 
@@ -55,7 +55,7 @@ ul {
   display: block;
   background-color: slategrey;
   border: 1px solid slategrey;
-  border-color:black;
+  border-color:#fff5ee;
   border-width:2px;
 }
 
@@ -70,7 +70,7 @@ ul {
 }
 
 #nav ul li a:hover {
-  background-color: white;
+  background-color: #fff5ee;
   border: 1px solid black;
   color: black;
 }
