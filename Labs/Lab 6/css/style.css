@@ -1,0 +1,66 @@
+#main-navbar{
+  background-color: blue;
+  overflow: hidden;
+}
+
+#navbar-container{
+  width: 100%;
+  text-align: center;
+}
+
+#navbar-container ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+#navbar-container ul li{
+  float: left;
+}
+
+#navbar-container ul li a{
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+}
+
+#navbar-container ul li a:hover{
+  background-color: #000;
+}
+
+#onpage{
+  text-decoration: underline overline;
+}
+
+/* The following section configures the sidebar */
+
+#sidebar{
+  background-color: red;
+  position: fixed;
+  right: 0%;
+  height: 100%;
+  width: 20%;
+}
+
+#sidebar-container{
+  text-align: center;
+}
+
+#sidebar-container ul{
+  list-style-type: none;
+  padding: 0;
+  display: block;
+}
+
+#sidebar-container ul li a{
+  display: block;
+  padding: 15px 0;
+  color: #fff;
+  text-decoration: none;
+}
+
+#sidebar-container ul li a:hover{
+  background-color: #000;
+} 
