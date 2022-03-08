@@ -73,7 +73,7 @@ ul {
   border: 1px solid black;
   color: black;
 }
-.photo {
+#photo {
   background-color: white;
   text-align: center;
   border: 5px solid;
