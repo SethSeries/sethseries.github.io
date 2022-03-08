@@ -75,7 +75,7 @@ ul {
   color: black;
 }
 
-.group-item img {
+.photo {
   background-color: white;
   text-align: center;
   border: 5px solid;
