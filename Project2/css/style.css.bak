@@ -1,66 +1,76 @@
-#main-navbar{
-  background-color: blue;
-  overflow: hidden;
+body {
+	background-color: #FFFAFA;
 }
 
-#navbar-container{
-  width: 100%;
+header {
+	background-color: red;
+	padding: 6% 10% 6% 6%;
+	margin-left: 0px;
+	margin-bottom: 2em;
+	border-bottom: 2px solid slategrey;
+	text-align: center;
+}
+
+h1 {
+  font-family:'Times New Roman', Times, serif;
+  font-weight: 800;
+  font-size: 3.5em;
+  color: indigo;
   text-align: center;
-}
+ }
+  
+h2 {
+  font-family:'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 2.0em;
+  color: indigo;
+  text-align: center;
+ }
 
-#navbar-container ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  display: inline-block;
-}
+h3 {
+  font-family:'Times New Roman', Times, serif;
+  font-weight: 700;
+  font-size: 1.5em;
+  color: black;
+ }
 
-#navbar-container ul li{
+ul {
+  font-weight: 500;
+  font-size: 1.2em;
+  color: black;
+ }
+
+#nav li {
   float: left;
-}
-
-#navbar-container ul li a{
-  display: block;
-  padding: 10px 20px;
-  color: #fff;
-  text-decoration: none;
-}
-
-#navbar-container ul li a:hover{
-  background-color: #000;
-}
-
-#onpage{
-  text-decoration: underline overline;
-}
-
-/* The following section configures the sidebar */
-
-#sidebar{
-  background-color: red;
-  position: fixed;
-  right: 0%;
-  height: 100%;
-  width: 20%;
-}
-
-#sidebar-container{
+  width: 32.75%;
+  margin: .5% .25% .5% .25%;
   text-align: center;
 }
 
-#sidebar-container ul{
+#nav ul li a {
+  text-decoration: none;
+  color: red;
+  padding: 1em;
+  display: block;
+  background-color: slategrey;
+  border: 1px solid slategrey;
+  border-color:black;
+  border-width:2px;
+}
+
+#nav ul {
   list-style-type: none;
   padding: 0;
-  display: block;
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 900;
+  background-color: white;
 }
 
-#sidebar-container ul li a{
-  display: block;
-  padding: 15px 0;
-  color: #fff;
-  text-decoration: none;
+#nav ul li a:hover {
+  background-color: red;
+  border: 1px solid red;
+  color: lavender;
 }
 
-#sidebar-container ul li a:hover{
-  background-color: #000;
-}
