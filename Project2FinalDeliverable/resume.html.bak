@@ -27,7 +27,7 @@
 	     <p>4545 Big Dawg Avenue | sethahall@outlook.com | (312)-661-6298</p>
 		</section>
 	</div>
-	<div id="basics">
+	<div id="basics2">
 	  <h2>Professional Projects</h2>
 	   <section class="sc1">
 	     <p><strong>Remote Support Restructure Project</strong></p>
@@ -45,7 +45,7 @@
 		  </ul>
 	  </section>
 	</div>
-	<div id="basics">
+	<div id="basics3">
 	   <h2>Professional Experience</h2>
 	   <section class="sc1">
 	     <p><strong>Illinois Institute of Technology</strong></p>
@@ -74,7 +74,7 @@
 	    </ul>
 	  </section>	  
 	</div>
-	<div id="basics">
+	<div id="basics4">
 	  <h2>Education</h2>
 	   <section class="sc1">
 	     <p><strong>A.S Science</strong></p>
