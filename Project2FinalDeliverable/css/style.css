@@ -1,0 +1,60 @@
+#main-navbar {
+  background-color: black;
+  overflow: hidden;
+}
+#navbar-container {
+  width: 100%;
+  text-align: center;
+}
+#main-navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  vertical-align: top;
+}
+#main-navbar ul li {
+  float: left;
+}
+#main-navbar ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  text-decoration: none;
+}
+#main-navbar ul li a:hover {
+  background-color: LightGray;
+  color: Black;
+  text-transform: uppercase;
+}
+#main-navbar #onpage {
+  background-color: Black;
+}
+#main-header {
+  background: #cc0000; /* Old browsers */
+  background: -moz-linear-gradient(top,  #cc0000 0%, #cc0000 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top,  #cc0000 0%,#cc0000 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom,  #cc0000 0%,#cc0000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0000', endColorstr='#cc0000',GradientType=0 ); /* IE6-9 */
+  margin: 5px 0 0 0;
+  height: 80px;
+  width: 100%;
+}
+.header-content {
+  text-align: center;
+  margin: 0;
+  padding: 25px;
+  color: #272935;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2em;
+}
+main {
+	width: 100%;
+	float: left;
+	background-color: #d4d2cb;
+}
+
+
+
+
