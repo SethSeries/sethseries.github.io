@@ -11,9 +11,9 @@
       <div id="navbar-container">
         <ul>
           <li><a href="index.html">Main Index</a></li>
-		  <li><a href="article1.html">The First Half of my Writing Sample</a></li>
-		  <li><a href="article2.html">The Second Half of my Writing Sample</a></li>
-		  <li><a href="resume.html">My Professional Resume</a></li>
+		  <li><a href="article1.html">Article 1</a></li>
+		  <li><a href="article2.html">Article 2</a></li>
+		  <li><a href="resume.html">Resume</a></li>
         </ul>
       </div>  
     </nav>
