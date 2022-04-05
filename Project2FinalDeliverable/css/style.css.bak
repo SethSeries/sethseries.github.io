@@ -54,6 +54,15 @@ main {
 	float: left;
 	background-color: #d4d2cb;
 }
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  float: right;
+  text-align: right;
+  padding: 5px;
+  height: 800px;
+  width: 600px;
+}
 
 
 
