@@ -25,6 +25,10 @@
 	   <div id="basics">
 	     <section class="sc1">
 		   <h2>Knoxville, Tennessee</h2>
+		  </section>
+		</div>
+		<div id ="bascs2">
+		  <section class="sc1">
 		    <script src="https://maps.googleapis.com/maps/api/js?AIzaSyBM1F-BpX660SBK3-Vw9O9f7AEvTAIH8rI&callback=initMap"
         async>
 			</script>
