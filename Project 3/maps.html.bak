@@ -24,7 +24,9 @@
 	   <div id="basics">
 	     <section class="sc1">
 		   <h2>Knoxville, Tennessee</h2>
-		     <p>Hello, my name is Seth Hall. I am a 3rd year co-terminal student and employee at IIT. This site contains my resume and two writing samples</p>
+		    <script src="https://maps.googleapis.com/maps/api/js?AIzaSyBM1F-BpX660SBK3-Vw9O9f7AEvTAIH8rI&callback=initMap"
+        async>
+			</script>
 		  </section>
 		</div>
       </main>
