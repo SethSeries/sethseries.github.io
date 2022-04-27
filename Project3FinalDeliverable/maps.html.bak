@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Project 3</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+	<script src="js/script.js"></script>
+  </head>
+  <body>
+    <nav id="main-navbar">
+      <div id="navbar-container">
+        <ul>
+          <li><a href="index.html">Main Index</a></li>
+		  <li><a href="article1.html">Article 1</a></li>
+		  <li><a href="article2.html">Article 2</a></li>
+		  <li><a href="resume.html">Resume</a></li>
+		  <li><a href="maps.html">Maps</a></li>
+        </ul>
+      </div>  
+    </nav>
+	<div id="main-header">
+	  <h1 class ="header-content">Main Index Page</h1>
+	 </div>
+	 <main>
+	   <div id="basics">
+	     <section class="sc1">
+		   <h2>Knoxville, Tennessee</h2>
+		  </section>
+		</div>
+		<div id ="bascs2">
+		  <section class="sc1">
+		  <h2>Maps</h2>
+		    <script src="https://maps.googleapis.com/maps/api/js?AIzaSyBM1F-BpX660SBK3-Vw9O9f7AEvTAIH8rI&callback=initMap"
+        async>
+			</script>
+		  </section>
+		</div>
+      </main>
+	</body>
+</html>

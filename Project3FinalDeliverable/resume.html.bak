@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Project 2 Final Deliverable</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+  </head>
+  <body>
+    <nav id="main-navbar">
+      <div id="navbar-container">
+        <ul>
+          <li><a href="index.html">Main Index</a></li>
+		  <li><a href="article1.html">Article 1</a></li>
+		  <li><a href="article2.html">Article 2</a></li>
+		  <li><a href="resume.html">Resume</a></li>
+		  <li><a href="maps.html">Maps</a></li>
+        </ul>
+      </div>  
+    </nav>
+	<div id="main-header">
+	  <h1 class ="header-content">Resume</h1>
+	 </div>
+	 <main>
+	 <div id="basics">
+	   <section class="sc1">
+	     <h2>Seth Hall</h2>
+	       <p>4545 Big Dawg Avenue | sethahall@outlook.com | (312)-661-6298</p>
+		</section>
+	</div>
+	<div id="basics2">
+	   <section class="sc1">
+	     <h2>Professional Projects</h2>
+	     <p><strong>Remote Support Restructure Project</strong></p>
+		  <ul>
+			<li>Tasked with creating canned responses for the LogMeIn remote support program so unify the voice of our department towards front facing clients.</li>
+			<li>The first step for this was the deployment of a survey asking about most common technical issues as well as common scenarios that our agents found themselves in.</li>
+			<li>After the preliminary survey, pre-canned responses were drafted and sent out in beta form to select group of agents.</li>
+			<li>This form led to the further refinement of these responses which were then sent out department wide. Alongside this, a secondary form was drafted to take suggestions for further canned responses as new issues and outages were reported. </li>
+		  </ul>
+	     <p><strong>Domain Migration Project</strong></p>
+		  <ul>
+			<li>Responsible for using active directory information to locate numerous machines operating on an old domain. Once identified, coordinated with various department heads to convert these machines over to the new domain within a specific project timeline. Responsible for testing solutions to seamlessly transition devices over without data loss as well as compiling information into a proper knowledge base document.</li>
+		  </ul>
+	  </section>
+	</div>
+	<div id="basics3">
+	   <section class="sc1">
+	     <h2>Professional Experience</h2>
+	     <p><strong>Illinois Institute of Technology</strong></p>
+		 <p><em>Chicago, IL | February 2020 -- Present</em></p>
+		 <ul>
+		   <li>Serve as the First Point of Contact (FPOC) for phone, online, email, and walk-in technology-support requests from students, faculty, and staff on IIT’s Campuses.</li>
+		   <li>Entered requests and resolution details in IIT’s call-tracking software system.</li>
+		   <li>Tasked with either resolving issues at FPOC whenever possible, or assigning the appropriate priority levels and directing the requests to the appropriate staff, while maintaining ownership of recorded incidents and ensuring that issues are resolved according to Service Level Agreements (SLAs).</li>
+		   <li>Document resolution details as knowledge base entries, which will be shared with Support Desk team members and end users.</li>
+		   <li>Utilize critical-thinking skills to seek resolutions, accessing knowledge databases and other resources when resolutions are not immediately known. Escalate problems and concerns to management when appropriate. </li>
+		   <li>Worked closely and effectively with other technical teams, both within and outside of OTS, as applicable, to ensure timely problem resolutions. </li>
+	    </ul>
+	    <p><strong>Cicero District 99</strong></p>
+		<p><em>Berwyn, IL | October 2018 -- Febrary 2020</em></p>
+		<ul>
+		  <li>Provided Tier II technical support and service restoration for daily operations and project efforts. Coordinated between various assignments and integration of various components.</li>
+		  <li>Solved incidents on standard systems and assisted in providing Tier III supports on specialty systems. These duties included OS installs, software configuration/customization, maintenance and upgrades to various systems, and implementation of and managing of workstations, printers, wireless devices and handheld devices.</li> 
+		  <li>Assisted non-IT staff with remote desktop support as well as in-classroom support via the RemoteDesk ticketing system.</li>
+		  <li>Built deployment tasks for software images.</li>
+		  <li>Developed new troubleshooting documentation for both IT and non-IT knowledge bases.</li>
+		  <li>Served as front facing technician and liaison between the Information Services department, administration and teachers within the district.</li>
+		  <li>Documented, monitored, and assisted in troubleshooting for district wide devices. These devices ranged from Asus Chromebooks, Dell Latitude/XPS units and Dell Optiplex All-In-One systems.</li>
+		  <li>Tasked with deploying Audio-Visual setups for board meetings, district presentations and VIP visits.</li>
+	    </ul>
+	  </section>	  
+	</div>
+	<div id="basics4">
+	   <section class="sc1">
+	     <h2>Education</h2>
+	     <p><strong>A.S Science</strong></p>
+		 <p>May 2017</p>
+		 <p>Roane State Technical Community College -- Harriman, TN</p>
+		
+		 <p><strong>B.S Information Technology Management</strong></p>
+		 <p>May 2022(Projected)</p>
+		 <p>Illinois Institute of Technology -- Chicago, IL</p>
+		
+		 <p><strong>M.S Cybersecurity and Forensics</strong></p>
+		 <p>May 2022(Projected)</p>
+		 <p>Illinois Institute of Technology -- Chicago, IL</p>
+	  </section>
+	</div>
+	</main>
+  </body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Project 2 Final Deliverable</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+  </head>
+  <body>
+    <nav id="main-navbar">
+      <div id="navbar-container">
+        <ul>
+          <li><a href="index.html">Main Index</a></li>
+		  <li><a href="article1.html">Article 1</a></li>
+		  <li><a href="article2.html">Article 2</a></li>
+		  <li><a href="resume.html">Resume</a></li>
+		  <li><a href="maps.html">Maps</a></li>
+        </ul>
+      </div>  
+    </nav>
+	<div id="main-header">
+	  <h1 class ="header-content">Game of the Year Part Two</h1>
+	 </div>
+	 <main>
+	   <div id="basics">
+	     <section class="sc1">
+			<h2>Introductions</h2>
+		   <p>Welcome back to my game of the year discussions. In a follow up to last week's article, I'd like to properly disucss the remainder of my picks as well as some house keeping.</p>
+		 </section>
+		 <section class="sc1">
+	       <h2>Resident Evil: Village</h2>
+		     <p>At number three on my list is Resident Evil: Village. Resident Evil 7 was an incredible surprise and was fully prepared for letdown with Village. Everything shown prior felt like an RE6-esque pivot especially as actual monsters and ghosts were shown, but the final result is so damn good. RE8 is a campy monster movie and completely understands what that means. Divided amongst the castles of the four lords, the player is taken through four very different horror movies as they work to rescue the protagonist’s daughter from their captors. The first castle, owned by internet fetish legend Lady D, is meant to evoke a very specific version of vampire horror. Her castle is lavish, and all the surroundings speak to her refined tastes, but also serve to hide her ghoulish feeding habits. Lady D operates with the same function as Nemesis and Mr. X before her but is allowed to have a personality that the traditional bioweapons can’t. Players are constantly on the run from her, but you can hear her screaming at the protagonist in rage as he defeats each of her daughters. While Lady D’s section is a bit short, it sets an excellent precedent for the rest of the game.</p>
+			 <p>Each of the four lords has a similar aesthetic and gameplay mechanic associated with them. House Bienvenito is a send up to both psychedelic horror and the walking-sim styled horror games that grew in popularity as Resident Evil began to re-invent itself. The final sections are a call back to the same industrial horror and action-oriented gameplay found in Resident Evil 4 while avoiding the pitfalls that plagued it’s successors 5 and 6. The game certainly isn’t without complaints, but the ride is so well done that I’m willing to overlook them. My general warning is that the game is a bit fatphobic even though that character is arguably the best one in the game. I loved RE8 and I cannot wait to see what the future of the franchise is. The current divide between mechanically solid remakes and experimental mainline games is a fantastic direction.</p>
+		</section>
+		<section class="sc1">
+	       <h2>Shin Megami Tensei V</h2>
+		     <p>My number two game is Shin Megami Tensei V. I’ve spent the last 5 years dealing with my complicated feelings towards Persona. Coming out as bi and now recently non-binary, Persona’s latent phobia towards LGBT is frustrating. I’ve been constantly told that mainline Shin Megami Tensei is far more sensitive towards these topics and honestly, hey I’m fine with the fact that V barely has anything to say at all. SMT V is a game built upon grunge. It is filthy in ways that are hard to describe. The environments are devoid of kindness, completely apathetic to the player. Enemies can insta-kill your party on the first turn, and you are expected to fight dirty. The game’s morality system enforces this as well, with the player constantly confronted with uncomfortable choices. These choices do not have a golden ending, nor to they usually end well. As you scrap your way through the cruelty of this world, the small moments of wonder and what few allies you have become even more important. I knew that I’d eventually have to part with some of my comrades, but the small moments of support between the protagonists felt hard earned. These feelings are just thematic either.</p>
+			 <p>Mechanically, Shin Megami Tensei V is vicious. As stated above, the player can just get fucked over by the game’s mechanics. A single interaction can decide the outcome of a fight at any moment, so the player is actively encouraged to take advantage of their opponent with each failure. Most boss fights expect you to lose so that you can re-build yourself around these encounters. This isn’t particularly new with SMT, but the ways that upgraded system mechanics drastically enhance this gameplay loop. The ability to summon the exact demon you need via the reverse demon compendium is phenomenal. It’s a feature I never knew I needed, but now it is a must have for any Atlus RPG going forward. The reworked morality system is also a welcome change especially with frustrating IV’s point system was. I wasn’t sure what to expect from SMT V going in, but I’m so glad I played it to completion. It is an incredible RPG and stands out amongst its’ genre.</p>
+			 <p>I suppose it’s time to talk game of the year but doing such requires context. 2021 wasn’t as hard as the previous year, but I can’t say it was particularly easy. I’ve had a certain level of survivor’s guilt just being stable over the last two years and my mental health plummeted to the lowest its’ ever been. I didn’t really expect to make it to the end of this year and it still feels odd to write this for you. My biggest takeaway from this, more so than usual, is that I want to live as me, for me. It’s so easy to justify the things I like with a backhanded compliment or praise, but I think that part of accepting myself is accepting the things that make me happy. This is extremely morbid, but I don’t know if things are going to get better in the world around us. It’s maximum doomer, but that’s where I’m at. With that said, there’s no point drowning in pain anymore. The people around me keep me moving, and I want to be the best and most honest version of myself for them. I’m very thankful to even be here writing this. Thank you for supporting me and thank you for reading this.</p>
+			 <p>Anyways, y'all hear about video games?</p>
+		</section>
+		<section class="sc1">
+	       <h2>No More Heroes III</h2>
+		     <p>My game of the year is No More Heroes 3. In the spirit of everything above, NMH3 is unashamed about what it is, and I cannot believe this game exists. What’s even crazier is that the game is incredible. No More Heroes 3 isn’t the grand conclusion to some saga or even a perfect payoff for the characters they’ve established since the first game dropped, rather, the game is a celebration of everything Travis, and by extension Suda himself, loves. There are moments built upon moments where the game explicitly says something like, “Hey man, did you know that Takeshi Miike films are sick as hell”. Every chapter opens with a pseudo podcast of two dorks talking about how much they love Miike’s works and it’s incredible considering he showed up in both this game and the predecessor. The game references everything from Char’s Counterattack to Space Runaway Ideon directly while paying tribute to Kamen Rider and other classic sci-fi anime in it’s mechanics. While it would be easy to write this off as the same audience pandering found in something like Borderlands, what makes it stand apart is just how much the unironic enjoyment shines through. The game doesn’t go, “hey man this is like X”, instead it goes “Hey man, I like this and this is why”.</p>
+			 <p>Mechanically, the game fits a specific niche of character action that has been missing. The game doesn’t hold your hand, but if you take the time to learn its’ systems, it rewards you by making you feel invincible. The game isn’t as flashy as Devil May Cry, but the simplicity of fights feels satisfying. You aren’t hard styling on your opponents, you don’t need to. A perfectly executed fight see’s Travis dance around his enemies as he cuts them down with the occasional wrestling move for style. The system isn’t complex, but it doesn’t need to be. While everything outside of combat arenas are lacking, especially in how empty the environments are, the moment-to-moment weirdness shines through. Sitting down to get sushi and hearing the sushi rap is incredible. Hella good vibes all around.</p>
+			 <p>No More Heroes 3 is my game of the year because it’s earnest. It knows exactly what it is and its’ proud to wear that on its’ sleeves. I wouldn’t call it Suda’s magnum opus, but it’s the perfect encapsulation of what makes his games interesting. Despite being the final game in a “trilogy”, No More Heroes 3 has so much experimentation going on despite how refined the core systems are. It’s not afraid to try new things or explore other genres that No More Heroes couldn’t be, and I think that level of imagination is worth rewarding. There are so many ways you could read into this game. Is it the final tale of a trilogy spanning 3 console generations or is it a vehicle for the director to indulge in every single one of his passions through the lens of some dickhead with a lightsaber? I can’t give you a definitive answer, but I will say that the game has arguably one of the pettiest knocks at Smash Bros creator, Masahiro Sakurai, I’ve ever seen. It is the epitome of “all I got was a mii fighter, well fuck you. I’ll make my own fucking game”. That scene is so good and it’s part of why I made this my game of the year.</p>
+			 <p>2022 is going to be a weird year and that’s ok. I don’t know what’s coming, nor can I tell you how I’ll feel if I make It to the end of it to write another one of these. That being said, I hope to see you here again next year and I hope that this isn’t the only thing posted during the next year.</p>
+		</section>
+	</div>
+	</main>
+  </body>
+</html>
+	
