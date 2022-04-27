@@ -59,6 +59,11 @@ img {
   height: 320px;
   width: 240px;
 }
+#map {
+ width: 600px;
+  height: 550px;
+  margin: 100px auto;
+}
 
 
 
